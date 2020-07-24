@@ -1,0 +1,43 @@
+Question 1 ) what is your understanding of Blockchain?
+
+Ans --> Blockchain is a mix of technology  - Distributed database and cryptography
+where information  is verificable , unchangable , tampor-proof and immutable
+Blockchain is introduced due to "International banking crisis with the collapse
+of investment in 2008" .
+A blockchain is essentially a digital ledger of transactions that is duplicated 
+and distributed across the entire network of computer systems on the blockchain.
+
+Question 2 ) What is a core problem Blockchain trying to solve ?
+
+Ans --> 1)Currency and Transaction Support
+	2)Supply Chains and Item Histories
+	3)Voting
+	4)Government Operations
+	5)Intellectual Property
+	6)Cloud Storage
+	7)Charity
+
+Question 3) What are the features which blockchain will give you ?
+
+Ans --> 1)Enhanced Security
+	2)Faster Settlement 
+	3)Distributed Ledgers
+	4)Decentralized Technology
+	5)Cannot be Corrupted
+
+Question 4) What all things does a Block contain?
+
+Ans --> Each block contains, among other things, the current time, a record of 
+some or all recent transactions, and a reference to the block that came 
+immediately before it. It also contains an answer to a difficult-to-solve 
+mathematical puzzle - the answer to which is unique to each block.
+A block contains the hash value of pervious page and date of its own. First
+block didn't have hash value of previous page thats why its called "Genesis block".
+Large numbers of blocks are connected to each other.
+
+Question 5) How is the  verifiability of Blockchain has been attended ?
+
+Ans --> Validate transactions are stored into a block and are sealt with a hash. this
+block become a part of the blockchain when other computers in the network validate
+if the hash on the block is correct. Now the transactions is part of the blockchain
+and cannot be altered any way.
