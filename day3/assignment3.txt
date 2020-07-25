@@ -1,0 +1,22 @@
+pragma solidity ^0.4.17;
+
+contract land
+{
+	string public landowner;
+
+	function land(string landowner) public 
+	{
+		landowner = newlandowner;
+
+	}
+
+	function setdetails(string newowner) public 
+	{
+		landowner = newlandowner;
+	}
+
+	function getdetails() public view return(string) public 
+	{
+		return (landowner);
+	}
+}
